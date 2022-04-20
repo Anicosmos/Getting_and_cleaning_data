@@ -13,8 +13,9 @@ As per the instructions in the peer assessment, this repository provides the fol
   
   
 ### Links
-*[Repository link](https://github.com/Anicosmos/Getting_and_cleaning_data)
-*[Tidytextlink](https://github.com/Anicosmos/Getting_and_cleaning_data/blob/master/TidyData.txt)
-*[run_analysis](https://github.com/Anicosmos/Getting_and_cleaning_data/blob/master/run_analysis.R)
-*[CodeBook.md]
+\*[Repository link](https://github.com/Anicosmos/Getting_and_cleaning_data)
+\*[Tidytextlink](https://github.com/Anicosmos/Getting_and_cleaning_data/blob/master/TidyData.txt)
+\*[run_analysis](https://github.com/Anicosmos/Getting_and_cleaning_data/blob/master/run_analysis.R)
+\*[CodeBook.md](https://github.com/Anicosmos/Getting_and_cleaning_data/blob/master/CodeBook.md)
+
 
